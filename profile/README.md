@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-<p></p><strong>PatrolAssist</strong> is dedicated to empowering ski patrollers by providing innovative tools and software to make their jobs more efficient and effective. Our flagship project is the **PatrolAssist iOS app**, designed to streamline patrolling tasks and improve response times on the mountain.</p>
+<p></p><strong>PatrolAssist</strong> is dedicated to empowering ski patrollers by providing innovative tools and software to make their jobs more efficient and effective. Our flagship project is the <strong>PatrolAssist iOS app</strong>, designed to streamline patrolling tasks and improve response times on the mountain.</p>
 </div>
 
 ---
