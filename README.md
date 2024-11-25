@@ -1,2 +1,0 @@
-# .github
-PatrolAssist Organization README
