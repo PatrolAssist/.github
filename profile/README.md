@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/patrolassistbanner.png" alt="PatrolAssist Banner"/>
+  <img src="/patrolassistbanner.png" alt="PatrolAssist Banner" style="padding: 0px;"/>
 </p>
 
 <div id="user-content-toc" align='center'>
