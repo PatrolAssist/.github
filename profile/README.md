@@ -1,10 +1,18 @@
 <p align="center">
-  <img src=".github/patrolassistbanner.png" alt="PatrolAssist Banner" />
+  <img src="/patrolassistbanner.png" alt="PatrolAssist Banner"/>
 </p>
 
-<h1 align="center">🏔️ Welcome to PatrolAssist!</h1>
+<div id="user-content-toc" align='center'>
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>Welcome to PatrolAssist 👋🏼</h1>
+    </summary>
+  </ul>
+</div>
 
-**PatrolAssist** is dedicated to empowering ski patrollers by providing innovative tools and software to make their jobs more efficient and effective. Our flagship project is the **PatrolAssist iOS app**, designed to streamline patrolling tasks and improve response times on the mountain.
+<div align="center">
+<p></p><strong>PatrolAssist</strong> is dedicated to empowering ski patrollers by providing innovative tools and software to make their jobs more efficient and effective. Our flagship project is the **PatrolAssist iOS app**, designed to streamline patrolling tasks and improve response times on the mountain.</p>
+</div>
 
 ---
 
