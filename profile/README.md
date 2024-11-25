@@ -34,6 +34,4 @@ Whether you're a ski patroller, developer, or just interested in supporting the 
 You can also join our Discord server to connect with other patrollers and developers in real time:  
 [**Join the PatrolAssist Discord Server**](https://discord.gg/UYGJbsduCk)  
 
----  
-
 **Get started today!** Explore our repos, star your favorites, and join us in revolutionizing mountain safety and efficiency.  
